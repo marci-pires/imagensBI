@@ -1,6 +1,20 @@
-layout: page
-title: "page-name"
-permalink: https://marci-pires.github.io/imagensBI/
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Imagens BI</title>
+</head>
+<body>
+  <h1>Fotos da Equipe</h1>
 
-quero ver como que vai aparecer
-e se eu quiser imagem
+  <h2>AET - Fernando</h2>
+  <img src="Fotos/AET - Fernando.png" alt="Fernando" width="400">
+
+  <h2>Chefia - Lucas</h2>
+  <img src="Fotos/Chefia - Lucas.png" alt="Lucas" width="400">
+
+  <h2>DPAT - Luana</h2>
+  <img src="Fotos/DPAT - Luana.png" alt="Luana" width="400">
+
+</body>
+</html>
