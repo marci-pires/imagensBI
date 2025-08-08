@@ -1,4 +1,4 @@
 layout: page
 title: "page-name"
-permalink: /page-name.md
+permalink: https://marci-pires.github.io/imagensBI/
 
